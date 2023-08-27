@@ -1,22 +1,23 @@
 {
-  "name": "solaris",
-  "displayName": "solaris",
-  "description": "A high contrast light theme for VS Code",
-  "repository": "https://github.com/senselogic/SOLARIS.git",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.54.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Solaris",
-        "uiTheme": "hc-light",
-        "path": "./themes/Solaris-color-theme.json"
-      }
-    ]
-  }
+    "name": "Solaris",
+    "displayName": "Solaris",
+    "description": "A high contrast light theme for VS Code",
+    "publisher": "SenseLogic",
+    "repository": "https://github.com/senselogic/SOLARIS.git",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solaris",
+                "uiTheme": "vs",
+                "path": "./themes/Solaris-color-theme.json"
+            }
+        ]
+    }
 }
