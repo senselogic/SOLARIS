@@ -4,7 +4,7 @@
     "description": "A high contrast light theme for VS Code",
     "publisher": "SenseLogic",
     "repository": "https://github.com/senselogic/SOLARIS.git",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.54.0"
     },

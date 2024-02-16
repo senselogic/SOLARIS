@@ -1,0 +1,2 @@
+call vsce publish
+pause
